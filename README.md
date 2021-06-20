@@ -1,2 +1,2 @@
 # ChromeExtension
-description blablabla
+description blaåløøøøabla bobaboba
